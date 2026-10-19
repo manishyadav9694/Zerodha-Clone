@@ -3,7 +3,12 @@
 This is a full-stack clone of Zerodha Kite platform. Built for learning MERN Stack.
 
 ### 🚀 Live Link
-Deployed soon on Vercel
+
+frontend:https://zerodha-frontend-umber-seven.vercel.app
+
+dashboard:https://zerodha-dashboard-nine-gray.vercel.app
+
+backend:https://zerodha-backend-rgkp.onrender.com
 
 ### 🛠️ Tech Stack Used
 - **Frontend:** React.js, Bootstrap, CSS
